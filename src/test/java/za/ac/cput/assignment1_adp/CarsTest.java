@@ -14,7 +14,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author CPUT
+ * @author Ilyaas Davids
+ * @ studNum 219466424
  */
 public class CarsTest {
     
