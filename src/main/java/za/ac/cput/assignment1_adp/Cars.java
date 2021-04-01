@@ -7,7 +7,8 @@ package za.ac.cput.assignment1_adp;
 
 /**
  *
- * @author CPUT
+ * @author Ilyaas Davids
+ * @ studNum 219466424
  */
 public class Cars {
     private String brand , color;
